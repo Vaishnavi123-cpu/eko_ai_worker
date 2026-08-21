@@ -1,0 +1,6 @@
+SKU_ID,Product_Name,Current_Stock,Min_Threshold,Unit_Cost
+SKU_101,Micro-ATM Device,150,50,2500
+SKU_102,Thermal Printer Rolls,45,100,15
+SKU_103,Biometric Scanner,80,20,1200
+SKU_104,Merchant Standee,15,50,300
+SKU_105,Soundbox Speaker,200,50,800

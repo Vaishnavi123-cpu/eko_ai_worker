@@ -1,0 +1,9 @@
+[
+    {
+        "sku_id": "SKU_104",
+        "product_name": "Merchant Standee",
+        "quantity": 50,
+        "estimated_cost": 15000.0,
+        "reason": "Days of Inventory (DOI) is 13.125, which is less than 14. Velocity Shift is 31.87%, which is less than 40%. Reorder enough stock to reach a 15-day buffer based on the 7-day average sales."
+    }
+]

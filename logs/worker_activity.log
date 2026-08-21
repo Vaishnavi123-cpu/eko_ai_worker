@@ -1,0 +1,65 @@
+2026-07-09 15:22:21,829 - INFO - Starting Data Ingestion & Quality Guard...
+2026-07-09 15:22:21,883 - ERROR - CRITICAL: Missing Min_Threshold for SKUs: ['SKU_104']
+2026-07-09 15:22:21,885 - ERROR - System Error during ingestion: 'charmap' codec can't encode character '\U0001f6a8' in position 2: character maps to <undefined>
+2026-07-09 22:21:36,384 - INFO - Starting Data Ingestion & Quality Guard...
+2026-07-09 22:21:36,433 - ERROR - CRITICAL: Missing Min_Threshold for SKUs: ['SKU_104']
+2026-07-09 22:21:36,439 - ERROR - System Error during ingestion: 'charmap' codec can't encode character '\U0001f6a8' in position 2: character maps to <undefined>
+2026-07-09 22:21:36,440 - ERROR - Core engine execution aborted due to data quality guard failure.
+2026-07-09 22:24:11,824 - INFO - Starting Data Ingestion & Quality Guard...
+2026-07-09 22:24:11,850 - INFO - Data Validation Passed. Proceeding to calculations.
+2026-07-09 22:24:12,246 - ERROR - Groq API Error: {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+
+2026-07-09 22:24:12,389 - ERROR - Groq API Error: {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+
+2026-07-09 22:24:12,558 - ERROR - Groq API Error: {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+
+2026-07-09 22:24:12,908 - ERROR - Groq API Error: {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+
+2026-07-09 22:24:13,263 - ERROR - Groq API Error: {"error":{"message":"The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+
+2026-07-09 22:48:50,351 - INFO - Starting Data Ingestion & Quality Guard...
+2026-07-09 22:48:50,364 - INFO - Data Validation Passed. Proceeding to calculations.
+2026-07-09 22:48:51,588 - INFO - Decision for SKU_101: HOLD
+2026-07-09 22:48:51,998 - INFO - Decision for SKU_102: HUMAN_ESCALATION
+2026-07-09 22:48:52,704 - INFO - Decision for SKU_103: HOLD
+2026-07-09 22:48:53,840 - INFO - Decision for SKU_104: AUTO_ORDER
+2026-07-09 22:48:54,274 - INFO - Decision for SKU_105: HOLD
+2026-07-09 22:51:38,577 - INFO - Starting Data Ingestion & Quality Guard...
+2026-07-09 22:51:38,583 - INFO - Data Validation Passed. Proceeding to calculations.
+2026-07-09 22:51:38,802 - INFO - Decision for SKU_101: HOLD
+2026-07-09 22:51:38,985 - INFO - Decision for SKU_102: HUMAN_ESCALATION
+2026-07-09 22:51:39,255 - INFO - Decision for SKU_103: HOLD
+2026-07-09 22:51:39,614 - INFO - Decision for SKU_104: AUTO_ORDER
+2026-07-09 22:51:39,819 - INFO - Decision for SKU_105: HOLD
+2026-07-10 10:44:16,612 - INFO - Starting Data Ingestion & Quality Guard...
+2026-07-10 10:44:16,699 - ERROR - CRITICAL: Missing Min_Threshold for SKUs: ['SKU_104']
+2026-07-10 10:44:16,704 - ERROR - Core engine execution aborted due to data quality guard failure.
+2026-07-10 10:45:00,915 - INFO - Starting Data Ingestion & Quality Guard...
+2026-07-10 10:45:00,925 - INFO - Data Validation Passed. Proceeding to calculations.
+2026-07-10 10:45:01,908 - INFO - Decision for SKU_101: HOLD
+2026-07-10 10:45:02,489 - INFO - Decision for SKU_102: HUMAN_ESCALATION
+2026-07-10 10:45:03,188 - INFO - Decision for SKU_103: HOLD
+2026-07-10 10:45:03,836 - INFO - Decision for SKU_104: AUTO_ORDER
+2026-07-10 10:45:04,391 - INFO - Decision for SKU_105: HOLD
+2026-07-10 10:53:20,573 - INFO - Starting Data Ingestion & Quality Guard...
+2026-07-10 10:53:20,648 - ERROR - CRITICAL: Missing Min_Threshold for SKUs: ['SKU_104']
+2026-07-10 10:53:20,653 - ERROR - Core engine execution aborted due to data quality guard failure.
+2026-07-10 10:54:06,685 - INFO - Starting Data Ingestion & Quality Guard...
+2026-07-10 10:54:06,696 - INFO - Data Validation Passed. Proceeding to calculations.
+2026-07-10 10:54:07,484 - INFO - Decision for SKU_101: HOLD
+2026-07-10 10:54:08,527 - INFO - Decision for SKU_102: HUMAN_ESCALATION
+2026-07-10 10:54:09,195 - INFO - Decision for SKU_103: HOLD
+2026-07-10 10:54:09,913 - INFO - Decision for SKU_104: AUTO_ORDER
+2026-07-10 10:54:10,501 - INFO - Decision for SKU_105: HOLD
+2026-08-22 00:04:17,853 - INFO - Starting Data Ingestion & Quality Guard...
+2026-08-22 00:04:17,871 - INFO - Data Validation Passed. Proceeding to calculations.
+2026-08-22 00:04:22,768 - ERROR - Groq API Error: {"error":{"message":"The model `llama-3.1-8b-instant` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
+2026-08-22 00:04:23,084 - ERROR - Groq API Error: {"error":{"message":"The model `llama-3.1-8b-instant` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
+2026-08-22 00:04:23,467 - ERROR - Groq API Error: {"error":{"message":"The model `llama-3.1-8b-instant` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
+2026-08-22 00:04:23,717 - ERROR - Groq API Error: {"error":{"message":"The model `llama-3.1-8b-instant` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
+2026-08-22 00:04:23,938 - ERROR - Groq API Error: {"error":{"message":"The model `llama-3.1-8b-instant` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
